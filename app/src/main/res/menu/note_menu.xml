@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/clearAll"
+        android:icon="@drawable/ic_backspace"
+        android:iconTint="@color/tertiaryColor"
+        android:title="Clear all" />
+
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/ic_delete"
+        android:iconTint="@color/tertiaryColor"
+        android:title="Delete" />
+</menu>
